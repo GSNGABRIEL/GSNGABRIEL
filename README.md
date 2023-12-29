@@ -1,16 +1,22 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00709D&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=004864&size=35&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Profile!+:%29;My+Name+is+Gabriel+Silva.;I'm+From+Brazil,CE.;I'm+enthusiastic+about+technology.)](https://git.io/typing-svg)
 
-<!--
-**GSNGABRIEL/GSNGABRIEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GSNGABRIEL&show_icons=true&count_private=true&hide_border=true&title_color=00A9EC&icon_color=00709D&text_color=575859&bg_color=0d1117" alt="GSNGABRIEL github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSNGABRIEL&layout=compact&hide_border=true&title_color=09A9EC&text_color=575859&bg_color=0d1117" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GSNGABRIEL&bg_color=0d1117&color=969696&line=0A3357&point=356DA6&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+### Main skills:
+---
+### Tools:
+---
+### Other Knowledge:
+---
+### Studying in this moment:
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00709d&height=120&section=footer"/>
