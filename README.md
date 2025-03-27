@@ -21,5 +21,6 @@
 ### Studying in this moment:
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00709d&height=120&section=footer"/>
